@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @djenetdjerourou
-- 👀 I’m interested in owning my personal domain
-- 🌱 I’m currently learning how to publish articles online
+- 👀 I’m interested in owning a personal domain
+- 🌱 I’m currently learning how to publish my articles online
 - 💞️ I’m looking to collaborate on website creation
 - 📫 How to reach me djenet.djerourou@mim2019.esmt.org
 
